@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFFFF&heigth=180&section=header&text=Victor+Hugo+Silva+Dias&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFFFF&heigth=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=994&color=FFFFFF&width=435&lines=OL%C3%81%2C+eu+me+chamo+Victor+Dias%2C;Tenho+21+anos+de+idade;E+moro+em+S%C3%A3o+Paulo.;Eu+curso+o+ensino+superior+em+ADS;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=994&color=00bfbf&width=435&lines=OL%C3%81%2C+eu+me+chamo+Victor+Dias%2C;Tenho+21+anos+de+idade;E+moro+em+S%C3%A3o+Paulo.;Eu+curso+o+ensino+superior+em+ADS;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vitordias50&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Victor Silva Dias github stats" /> 
